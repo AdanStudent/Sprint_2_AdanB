@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sprint_2_AdanB", "Sprint_2_AdanB\Sprint_2_AdanB.csproj", "{AE283307-BBC6-41E2-9313-D4B1D683B709}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sprint_2_Tests", "Sprint_2_Tests\Sprint_2_Tests.csproj", "{6EFD84AE-F84B-48A1-AD27-C085156692C0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{AE283307-BBC6-41E2-9313-D4B1D683B709}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AE283307-BBC6-41E2-9313-D4B1D683B709}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AE283307-BBC6-41E2-9313-D4B1D683B709}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EFD84AE-F84B-48A1-AD27-C085156692C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EFD84AE-F84B-48A1-AD27-C085156692C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EFD84AE-F84B-48A1-AD27-C085156692C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EFD84AE-F84B-48A1-AD27-C085156692C0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
